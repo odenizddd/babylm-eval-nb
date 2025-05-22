@@ -1,0 +1,1 @@
+To run this repo, view the 'BabyLM_Evaluation_Pipeline.ipynb' file in GitHub. There is a 'Open in Colab' button at the top. This button will open the notebook in Colab. Choose a GPU enabled runtime and run the code cell by cell.
